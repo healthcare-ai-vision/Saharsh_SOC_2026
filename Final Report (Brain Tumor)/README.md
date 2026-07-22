@@ -47,4 +47,4 @@ The trained YOLOv8 model successfully detects and localizes brain tumors in MRI 
 
 **Saharsh Kumar Singh**
 
-Summer of Code – AI for Healthcare
+Seasons of Code – AI for Healthcare
