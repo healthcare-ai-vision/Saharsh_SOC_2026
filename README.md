@@ -1,6 +1,6 @@
-# Summer of Code 2026 – AI for Healthcare
+# Seasons of Code 2026 – AI for Healthcare
 
-This repository contains my work completed during the **Summer of Code 2026** under the **AI for Healthcare** track. The repository is organized week-wise and documents the concepts learned, assignments completed, and the final project developed throughout the program.
+This repository contains my work completed during the **Seasons of Code 2026** under the **AI for Healthcare** track. The repository is organized week-wise and documents the concepts learned, assignments completed, and the final project developed throughout the program.
 
 ---
 
@@ -62,4 +62,4 @@ The final project focuses on detecting and localizing brain tumors from MRI imag
 
 ## Acknowledgements
 
-This repository was created as part of the **Summer of Code 2026 – AI for Healthcare** program. It showcases my learning progress and the implementation of a complete deep learning project for medical image analysis.
+This repository was created as part of the **Seasons of Code 2026 – AI for Healthcare** program. It showcases my learning progress and the implementation of a complete deep learning project for medical image analysis.
